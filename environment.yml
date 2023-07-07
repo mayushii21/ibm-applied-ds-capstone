@@ -1,0 +1,31 @@
+name: py311
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - lxml
+  - beautifulsoup4
+  - pandas
+  - seaborn
+  - scikit-learn
+  - matplotlib
+  - requests
+  - numpy
+  - xgboost
+  - pytz
+  - dill
+  - scipy
+  - optuna
+  - ipykernel
+  - ipython-sql
+  - black
+  - folium
+  - dash
+  - jupyter-dash
+  - kaggle
+  - nbformat
+  - botorch
+  - statsmodels
+  - ipywidgets
+prefix: /home/mayushii21/anaconda3/envs/py311
